@@ -38,9 +38,8 @@ Everything else deals with managing lists with /m.
 """
 
 github = """
-If you like this bot, say hi to its creator @vipingupta_1 👨‍💻
-
-https://github.com/gupta-vipin/VIPMovie-Selector
+If you like this bot, say hi to its creator @featzai
+t.me/featzai
 """
 
 random = """
@@ -99,23 +98,23 @@ With <backup> as an argument, it will attempt to import a fixed list of movies. 
 """
 
 gotnothing = """
-Sorry, I've got nothing. 🤦
+Sorry, I've got nothing.
 """
 
 forgetful = """
-Sorry, I don't remember any /film. 😰\nTry searching for it!
+Sorry, I don't remember any /film.\nTry searching for it!
 """
 
 missingarg = """
-Missing argument. 🙄 See /help.
+Missing argument. See /help.
 """
 
 notfound = """
-Not found. 🙁
+Not found.
 """
 
 emptylist = """
-Empty list. 🤷
+Empty list.
 
 See /how2i for more information.
 """
@@ -125,17 +124,17 @@ Do you want to see top (A)ctors, (D)irectors, (G)enres or (K)eywords?
 """
 
 cleanslate = """
-Sometimes it's better to begin with a clean slate... 💣
+Sometimes it's better to begin with a clean slate...
 
 See /how2i in order to undo.
 """
 
 erase1 = """
-Done. {} movie{} been erased from my memory. 🧠
+Done. {} movie{} been erased from my memory.
 """
 
 erase2 = """
-\"{}\" has been erased from my memory. 🧠
+\"{}\" has been erased from my memory.
 """
 
 donefetching = """
@@ -145,17 +144,17 @@ Imported {} movies, {} directors, {} actors, {} genres and {} keywords.
 """
 
 datacheckpassed = """
-{}/{} checked: everything ok. ✅
+{}/{} checked: everything ok. 
 """
 
 datacheckfailed = """
-{}/{} checked: something went wrong... 🤯
+{}/{} checked: something went wrong sir...
 
 /upgrade the data base version to restore.
 """
 
 nothingtodo = """
-Nothing to do here. 😎
+Nothing to do here.
 """
 
 dbrestored = """
@@ -176,7 +175,7 @@ watchlist = """
 """
 
 showlast = """
-👍 Your last liked movies:
+Your last liked movies:
 
 """
 
